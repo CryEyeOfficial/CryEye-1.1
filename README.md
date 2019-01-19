@@ -1,3 +1,3 @@
-# CryEye-1.1
+# CryEye-1.0
 Unturned Hack
-This is here only for example purpose ! Dont copy the hack !
+The Cheat mostly belongs to AtiLion credit to him
